@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Crab
+comment0.text=\r\n\ This\ class\ defines\ a\ crab.\ Crabs\ live\ on\ the\ beach.\r\n
+comment1.params=
+comment1.target=Crab()
+comment1.text=\r\n\ Crab\ constructor\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Crab\ is\ controled\ across\ the\ screen\ looking\ for\ Worm.\r\n
+comment3.params=
+comment3.target=void\ lookForWorm()
+comment3.text=\r\n\ If\ Worm\ is\ visable\ by\ Turtle\ it\ will\ be\ eaten.\r\n
+comment4.params=
+comment4.target=void\ checkKeypress()
+comment4.text=\r\n\ Key\ "d"\ is\ right\r\n\ Key\ "a"\ is\ left\r\n
+comment5.params=
+comment5.target=void\ seeWin()
+comment5.text=\r\n\ If\ all\ Worms\ are\ gone\ game\ is\ over/stops\r\n
+comment6.params=
+comment6.target=void\ moveForward()
+comment6.text=\r\n\ MoveForward\r\n\ key\ "w"\=\ forward\r\n
+numComments=7
